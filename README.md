@@ -2,7 +2,7 @@
 
 ## About me
 * 🤖 Graduating in Engineering Mechatronics from the University of Brasília
-* 📱 I'm pursuing a technical course in Systems Development
+* 📱 Studying a technical degree in systems development
 * 👣 Off screens, I like dance 
 
 ## I'm interested in
