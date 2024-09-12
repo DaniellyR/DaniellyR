@@ -26,8 +26,8 @@
 
 ## GitHub Analytics
 <p align="center">
-<img width="450em" src="" alt=""/>
-<img width="450em" src=""/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=DaniellyR&show_icons=true&theme=aura&include_all_commits=true&count_private=true&" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellyR&layout=compact&langs_count=7&theme=aura"/>
 </p>
 
 <br>
