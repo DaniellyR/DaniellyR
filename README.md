@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964b00&height=130&section=header"/>
-<p style="font-size: 100px;">Hi there, I'm Danielly Reis🤎 :octocat:</p> 
+<h1>Hi there, I'm Danielly Reis🤎 :octocat: </h1> 
 
 # About me
 * 🤖 Graduating in Engineering Mechatronics from the University of Brasília
