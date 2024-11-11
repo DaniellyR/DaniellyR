@@ -7,7 +7,7 @@
 * 👣 Off screens, I like dance 
 
 ### I'm interested in
-* 💻 Full-Stack Development
+* 💻 cyber security
 * 📊 Data Science
 * 📓 Study English
 
