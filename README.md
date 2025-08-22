@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Danielly Reis🤎 :octocat: </h1> 
 
 ### About me
-* 🤖 Graduating in Engineering Mechatronics from the University of Brasília
+* 🤖 Graduating in Engineering Software from the University of Brasília
 * 📱 Studying a technical degree in systems development
 * 👣 Off screens, I like dance 
 
